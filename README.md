@@ -1,7 +1,7 @@
 # Ankur Kumar Aggarwal Google_Training_Certificate
 
 ## 1. Android Educator Appreciation Certificate- February 2022
-![Android Educator Appreciation Certificate- February 2022](Ankur_Kumar_Aggarwal_Android_Educator_Appreciation_Certificate.png)
+![Android Educator Appreciation Certificate- February 2022](Google_Training_Certificate/Ankur_Kumar_Aggarwal_Android_Educator_Appreciation_Certificate.png)
 
 ## 2. Android Development with Kotlin - September 2020
 ![Android Development with Kotlin - September 2020](Google_Training_Certificate/Ankur_Google_Android-with-Kotlin.png)
